@@ -1,0 +1,32 @@
+# Simulation and EDA temporary files
+*.log
+*.raw
+*.tr0
+*.ac0
+*.dc0
+*.sw0
+*.st0
+*.ic0
+*.measure
+*.mt0
+*.out
+*.err
+*~
+*.bak
+*.tmp
+
+# Cadence Specific
+*.cdslck
+*.ahdlcmi/
+INCA_libs/
+xcelium.d/
+
+# Python / Scripts
+__pycache__/
+*.pyc
+.env
+venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
